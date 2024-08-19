@@ -1,0 +1,22 @@
+{
+    "colors": {
+        "AlternateBase": "#262626",
+        "Base": "#262626",
+        "BrightText": "#ff0000",
+        "Button": "#262626",
+        "ButtonText": "#ffffff",
+        "Highlight": "#ff006a",
+        "HighlightedText": "#000000",
+        "Link": "#ff006a",
+        "Text": "#ffffff",
+        "ToolTipBase": "#ffffff",
+        "ToolTipText": "#ffffff",
+        "Window": "#171717",
+        "WindowText": "#ffffff",
+        "fadeAmount": 0.5,
+        "fadeColor": "#262626"
+    },
+    "name": "Dark-Plus",
+    "qssFilePath": "themeStyle.css",
+    "widgets": "Fusion"
+}
